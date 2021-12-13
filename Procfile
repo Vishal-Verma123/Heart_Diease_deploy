@@ -1,1 +1,1 @@
-web:python heart_disease_app.py
+web: python heart_disease_app.py
